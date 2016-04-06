@@ -3,7 +3,7 @@
 3. meteor npm install --save-dev eslint eslint-plugin-react eslint-plugin-meteor eslint-config-airbnb
 
 in your package json:
-'''
+```
 {
   ...
   "scripts": {
@@ -21,4 +21,4 @@ in your package json:
     "rules": {}
   }
 }
-'''
+```
